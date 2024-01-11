@@ -24,6 +24,7 @@ How to reach me **izzaetie98@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izzatybalqis&show_icons=true&theme=dark&title_color=332c6d&bg_color=29447a&locale=en" alt="izzatybalqis" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izzatybalqis&show_icons=true&theme=dark&title_color=171617&bg_color=29447a&locale=en" alt="izzatybalqis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izzatybalqis&theme=dark" alt="izzatybalqis" /></p>
+
