@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋, I'm Izzaty Balqis</h1>
+<h1 align="center">Hey! 👋, I'm Izzaty Balqis</h1>
 <h3 align="center">A student of Bachelor in Science Computer( Graphics and Multimedia Software)</h3>
 
 <p align="left"> <a href="https://twitter.com/blqis_vxy" target="blank"><img src="https://img.shields.io/twitter/follow/blqis_vxy?logo=twitter&style=for-the-badge" alt="blqis_vxy" /></a> </p>
 
-- 🌱 I’m currently learning **C++ languange**
+- <i>Currently:</i> Undergraduate Student at University Technologies Malaysia, UTM
 
-- 📫 How to reach me **izzaetie98@gmail.com**
+<h2>🌱 I’m Currently Learning</h2>
+
+_University Technologies Malaysia_
+- SECJ1513 Programming Technique
+- SECI1013 Discrete Structure
+- SECR1013 Digital Logic
+
+How to reach me **izzaetie98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
