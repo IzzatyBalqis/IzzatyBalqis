@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/blqis_vxy" target="blank"><img src="https://img.shields.io/twitter/follow/blqis_vxy?logo=twitter&style=for-the-badge" alt="blqis_vxy" /></a> </p>
 
+![appreciated!](https://github.com/IzzatyBalqis/E-portfolio/assets/148413004/bd248530-0886-4ada-ba25-2c66f6a432bc)
+
 Hello! I'm an undergraduate student in my first year, often referred to as Zaty. I'm currently delving into the world of C++ while already having a grasp of basic Java. Despite initially being interested in mathematics and statistics, I changed my focus during matriculation and found the adventurous and enjoyable challenge of learning programming languages. I have some limited work experience and am looking forward to expanding my network and getting to know more people in this field.
 
 <i>Currently:</i>
