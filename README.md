@@ -3,14 +3,27 @@
 
 <p align="left"> <a href="https://twitter.com/blqis_vxy" target="blank"><img src="https://img.shields.io/twitter/follow/blqis_vxy?logo=twitter&style=for-the-badge" alt="blqis_vxy" /></a> </p>
 
-- <i>Currently:</i> Undergraduate Student at University Technologies Malaysia, UTM
+Hello! I'm an undergraduate student in my first year, often referred to as Zaty. I'm currently delving into the world of C++ while already having a grasp of basic Java. Despite initially being interested in mathematics and statistics, I changed my focus during matriculation and found the adventurous and enjoyable challenge of learning programming languages. I have some limited work experience and am looking forward to expanding my network and getting to know more people in this field.
 
-<h2>🌱 I’m Currently Learning</h2>
+<i>Currently:</i>
+- University Technologies Malaysia, UTM
+
+<i>Previously:</i>
+- Ungku Husin Secondary School (2016-2017)
+- Sultan Alauddin Secondary School (2017-2020)
+- Matriculation Student at Johor Matriculation College (2021-2023)
+
+<h2>💻 I’m Currently Learning</h2>
 
 _University Technologies Malaysia_
 - SECJ1513 Programming Technique
 - SECI1013 Discrete Structure
 - SECR1013 Digital Logic
+
+<h2>About me</h2>
+
+_Achievement_
+-
 
 How to reach me **izzaetie98@gmail.com**
 
