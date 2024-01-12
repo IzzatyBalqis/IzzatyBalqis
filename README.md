@@ -25,7 +25,10 @@ _University Technologies Malaysia_
 <h2>About me</h2>
 
 _Achievement_
--
+- Johor Inter Class Debate Competition
+- Executive Committee of Science, Technology, Engineering and Mathematics (STEM) 
+- Facilitator Program of Young Leaders
+- 
 
 How to reach me **izzaetie98@gmail.com**
 
