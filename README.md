@@ -33,21 +33,21 @@ _Achievement / Co-curriculum_
 
 _Soft Skill_
 
-
+|                                                                                                                                                                               Problem Solving                                                                                                                                                                              |                                                                                                                                                                          Adaptabilty                                                                                                                                                                          |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| _Analytical Thinking Skills:-_  Whenever I encounter a challenge, my approach involves first understanding the problem thoroughly. I take the time to analyze the question, seek relevant resources, and then engage in a trial-and-error process. I aim to uncover effective solutions by combining a thoughtful understanding of the issue with practical experimentation. | _Open-mindedness:-_ I tackle problems by being open to different solutions and considering what others think. This helps me not only solve problems better but also work well with others. I believe being open-minded in adapting to changes is more than just getting used to them; it's about looking for chances to learn and be creative in any situation. |
+|                                                                                                                                                                                Communication                                                                                                                                                                               |                                                                                                                                                                      Interpersonal Skills                                                                                                                                                                     |
+| _Active Listening:-_ It means really focusing on what someone is saying, not just hearing the words. I make sure to pay full attention, ask questions, and show that I understand. This helps me connect with others, build better relationships, and work together effectively.                                                                                             | _Empathy:-_ Having a compassionate heart that understands others' feelings. Whether my friends or colleagues are happy or facing challenges, I make an effort to understand their emotions and offer kindness and support. This helps me build meaningful connections, create a friendly atmosphere, and collaborate effectively.                               |
 
 <h2>Strength</h2>
 
 **🏆Competitiveness**
-
 I am inherently a competitive person, driven by a constant desire to surpass my own limits and outperform those around me. Whenever I hear of someone achieving success or excelling in a particular area, rather than succumbing to discouragement, I feel an intense determination to do even better. It's not envy that consumes me but rather a healthy and motivational challenge. This drive pushes me to consistently strive for excellence, dedicating myself to surpassing the accomplishments of others. I see each success as an opportunity to set new goals and work tirelessly to achieve them, creating a cycle of continuous improvement and personal growth.
 
-**Stubborn**
-
+**🙌Stubborn**
 I possess a determined and persistent nature. Every time I encounter failure, I immediately delve into analyzing my mistakes, seeking a deeper understanding of the situation. I dedicate myself to extensive practice and exercises to compensate for any shortcomings. If I find myself struggling to grasp a concept, I am known to stay up late and exert extra effort, as I am adverse to accepting failure. While I acknowledge that failures provide valuable lessons, my ultimate goal is to cultivate a life abundant in successes rather than setbacks.
 
-
-
-
+<h2> </h2>
 
 How to reach me **izzaetie98@gmail.com**
 
