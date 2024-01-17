@@ -1,7 +1,9 @@
 <h1 align="center">Hey! 👋, I'm Izzaty Balqis</h1>
 <h3 align="center">A student of Bachelor in Science Computer( Graphics and Multimedia Software)</h3>
 
-<p align="left"> <a href="https://twitter.com/blqis_vxy" target="blank"><img src="https://img.shields.io/twitter/follow/blqis_vxy?logo=twitter&style=for-the-badge" alt="blqis_vxy" /></a> </p>
+<p align="left"> 
+<a href="https://twitter.com/blqis_vxy" target="blank"><img src="https://img.shields.io/twitter/follow/blqis_vxy?logo=twitter&style=for-the-badge" alt="blqis_vxy" /></a>
+<img src="https://komarev.com/ghpvc/?username=izzatybalqis&label=Profile%20views&color=0eb1b4&style=flat-square" alt="izzatybalqis" /></a> </p>
 
 ![appreciated!](https://github.com/IzzatyBalqis/E-portfolio/assets/148413004/bd248530-0886-4ada-ba25-2c66f6a432bc)
 
@@ -39,7 +41,7 @@ _Soft Skill_
 |                                                                                                                                                                                Communication                                                                                                                                                                               |                                                                                                                                                                      Interpersonal Skills                                                                                                                                                                     |
 | _Active Listening:-_ It means really focusing on what someone is saying, not just hearing the words. I make sure to pay full attention, ask questions, and show that I understand. This helps me connect with others, build better relationships, and work together effectively.                                                                                             | _Empathy:-_ Having a compassionate heart that understands others' feelings. Whether my friends or colleagues are happy or facing challenges, I make an effort to understand their emotions and offer kindness and support. This helps me build meaningful connections, create a friendly atmosphere, and collaborate effectively.                               |
 
-<h2>Strength</h2>
+<h2>Strength🌠</h2>
 
 **🏆Competitiveness**  
 I am inherently a competitive person, driven by a constant desire to surpass my own limits and outperform those around me. Whenever I hear of someone achieving success or excelling in a particular area, rather than succumbing to discouragement, I feel an intense determination to do even better. It's not envy that consumes me but rather a healthy and motivational challenge. This drive pushes me to consistently strive for excellence, dedicating myself to surpassing the accomplishments of others. I see each success as an opportunity to set new goals and work tirelessly to achieve them, creating a cycle of continuous improvement and personal growth.
