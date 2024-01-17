@@ -41,10 +41,10 @@ _Soft Skill_
 
 <h2>Strength</h2>
 
-**🏆Competitiveness**
+**🏆Competitiveness**  
 I am inherently a competitive person, driven by a constant desire to surpass my own limits and outperform those around me. Whenever I hear of someone achieving success or excelling in a particular area, rather than succumbing to discouragement, I feel an intense determination to do even better. It's not envy that consumes me but rather a healthy and motivational challenge. This drive pushes me to consistently strive for excellence, dedicating myself to surpassing the accomplishments of others. I see each success as an opportunity to set new goals and work tirelessly to achieve them, creating a cycle of continuous improvement and personal growth.
 
-**🙌Stubborn**
+**🙌Stubborn**  
 I possess a determined and persistent nature. Every time I encounter failure, I immediately delve into analyzing my mistakes, seeking a deeper understanding of the situation. I dedicate myself to extensive practice and exercises to compensate for any shortcomings. If I find myself struggling to grasp a concept, I am known to stay up late and exert extra effort, as I am adverse to accepting failure. While I acknowledge that failures provide valuable lessons, my ultimate goal is to cultivate a life abundant in successes rather than setbacks.
 
 <h2> </h2>
