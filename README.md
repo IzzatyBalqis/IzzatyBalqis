@@ -26,14 +26,21 @@ _University Technologies Malaysia_
 
 <h2>About me</h2>
 
-_Achievement / Co-curriculum_
+**_Hobbies_**  
+In addition to coding, i find joy in:
+- _Drawing_:- Art is my creative outlet, and I love expressing myself through drawings. Check out some of my sketches and illustrations on my [DeviantArt](https://www.deviantart.com/zty98).
+
+- _Reading_:- In my free time, I love delving into captivating stories on [Wattpad](https://www.wattpad.com/user/a_Qish98). Reading fuels my imagination and helps me unwind after a day of coding. If you have any book recommendations, feel free to share!
+
+
+**_Achievement / Co-curriculum_**  
 - Johor Inter Class Debate Competition
 - Executive Committee of Science, Technology, Engineering and Mathematics (STEM) 
 - Facilitator Program of Young Leaders
 - Choral Speaking of Carnival Co-Academic English
 - Fire and Rescue Cadet Excellence Workshop
 
-_Soft Skill_
+**_Soft Skill_**
 
 |                                                                                                                                                                               Problem Solving                                                                                                                                                                              |                                                                                                                                                                          Adaptabilty                                                                                                                                                                          |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
