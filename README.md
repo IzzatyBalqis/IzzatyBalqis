@@ -49,6 +49,9 @@ I am inherently a competitive person, driven by a constant desire to surpass my 
 **🙌Stubborn**  
 I possess a determined and persistent nature. Every time I encounter failure, I immediately delve into analyzing my mistakes, seeking a deeper understanding of the situation. I dedicate myself to extensive practice and exercises to compensate for any shortcomings. If I find myself struggling to grasp a concept, I am known to stay up late and exert extra effort, as I am adverse to accepting failure. While I acknowledge that failures provide valuable lessons, my ultimate goal is to cultivate a life abundant in successes rather than setbacks.
 
+**🏔️Explorer**
+I really like trying out new things and pushing myself beyond my comfort zone. For example, there was this time when I joined a kayak program for students. It seemed like a fun idea at first, but when I actually got on the kayak, it turned out to be quite scary, and I regretted it a bit. Still, looking back, even the scary parts were part of the adventure. So, basically, I enjoy exploring and trying new stuff, even if I end up feeling a bit scared or regretful afterward.
+
 <h2> </h2>
 
 How to reach me **izzaetie98@gmail.com**
@@ -61,7 +64,9 @@ How to reach me **izzaetie98@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=izzatybalqis&show_icons=true&locale=en&layout=compact" alt="izzatybalqis" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izzatybalqis&show_icons=true&theme=dark&title_color=171617&bg_color=29447a&locale=en" alt="izzatybalqis" /></p>
 
